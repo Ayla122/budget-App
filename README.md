@@ -1,5 +1,9 @@
 # Budget Tracker 
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
+
+## Screenshot
+
+![screenshot](public/icons/ScreenShot.png)
 
 ## Description 
 This project is an application that allows users to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the changes will be reflected when they're brought back online. This application is deployed on Heroku. 
@@ -27,6 +31,3 @@ Contributors should read the installation section.
 
 ## Tests
 There are no tests for this application. 
-
-## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/ayla122.
